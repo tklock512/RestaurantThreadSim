@@ -8,4 +8,4 @@ To run the project, enter:
 java RestaurantSim
 The makefile also has the command:
 make clean
-Which deletes all class files in the folde
+Which deletes all class files in the folder
